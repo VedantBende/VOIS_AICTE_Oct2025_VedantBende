@@ -128,20 +128,32 @@ The dataset used is `Airbnb_Open_Data.csv`, which contains rich details about Ai
 
 Below are examples of the plots generated in this project.
 
-* 🔹 Correlation Heatmap
-  ![Correlation Heatmap](images/correlation_heatmap.png)
-
-* 🔹 Price vs. Service Fee Regression Plot
-  ![Price vs Service Fee](images/price_vs_service_fee.png)
-
-* 🔹 Top 10 Hosts by Listings
-  ![Top 10 Hosts](images/top_10_hosts.png)
+* 🔹 Room Type Distribution
+  ![Room Type Distribution](images/room_type_distribution.png)
 
 * 🔹 Listings by Borough
   ![Listings by Borough](images/listings_by_borough.png)
 
-* 🔹 Room Type Distribution
-  ![Room Type Distribution](images/room_type_distribution.png)
+* 🔹 Average Price per Neighborhood Group
+  ![Average Price per Neighborhood Group](images/average_price_per_neighborhood_group.png)
+
+* 🔹 Average Price for Properties in each Construction Year
+  ![Average Price for Properties in each Construction Year](images/average_price_for_properties_in_each_construction_year.png)
+
+* 🔹 Top 10 Hosts by Listings
+  ![Top 10 Hosts by Listings](images/top_10_hosts_by_listings.png)
+
+* 🔹 Host Verification vs. Review Rate
+  ![Host Verification vs. Review Rate](images/host_verification_vs._review_rate.png)  
+
+* 🔹 Price vs. Service Fee Regression Plot
+  ![Price vs. Service Fee Regression Plot](images/price_vs._service_fee_regression_plot.png)
+
+* 🔹 Average Review Rate for each Room/Property Type in each Neighbourhood Group
+  ![Average Review Rate for each Room/Property Type in each Neighbourhood Group](images/average_review_rate_for_each_room/property_type_in_each_neighbourhood_group.png)
+
+* 🔹 Host Listing Count vs. Availability
+  ![Host Listing Count vs. Availability](images/host_listing_count_vs._availability.png)
 
 ---
 
